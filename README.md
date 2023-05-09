@@ -1,7 +1,7 @@
 # Clonacion dela interfaz de Google creado con HTML5 y CSS3 en el bootcamp de Tecnolochicas PRO
 ## ÍNDICE
 * [1.Intro](https://github.com/alex5camp/clointerazgoogle#1intro)
-* [2.Qué contruí](#)
+* [2.Qué contruí](https://github.com/alex5camp/clointerazgoogle#2qu%C3%A9-constru%C3%AD)
 * [3.Objetivo del proyecto](#)
 
 ****
