@@ -2,7 +2,7 @@
 ## ÍNDICE
 * [1.Intro](https://github.com/alex5camp/clointerazgoogle#1intro)
 * [2.Qué contruí](https://github.com/alex5camp/clointerazgoogle#2qu%C3%A9-constru%C3%AD)
-* [3.Objetivo del proyecto](https://github.com/alex5camp/clointerazgoogle/blob/main/README.md#3objetivo-del-proyecto)
+* [3.Objetivo del proyecto](https://github.com/alex5camp/clointerazgoogle#3objetivo-del-proyecto)
 
 ****
 ## 1.Intro
